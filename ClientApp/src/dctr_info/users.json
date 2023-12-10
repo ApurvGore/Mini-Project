@@ -1,0 +1,35 @@
+{
+"username":"user1",
+"us_name":"Kalpana Sharma",
+ "email":"kalpana@gmail.com",
+ "password":"sharma@123",
+ "dob":"08-11-1994",
+ "gender":"male",
+ "city":"Pune",
+ "state":"Maharashtra",
+ "phone":9876543210
+}
+
+{
+    "username":"user2",
+    "us_name":"Ahmed Khan",
+     "email":"kingkhan99@yahoo.com",
+     "password":"kingkhan@99",
+     "dob":"10-01-1990",
+     "gender":"male",
+     "city":"Mumbai",
+     "state":"Maharashtra",
+     "phone":8642510239
+    }
+
+    {
+        "username":"user3",
+        "us_name":"Jerry",
+         "email":"jerry@gmail.com",
+         "password":"Spike@123",
+         "dob":"12-03-1970",
+         "gender":"male",
+         "city":"Satara",
+         "state":"Mahaarashtra",
+         "phone":1231231231
+        }

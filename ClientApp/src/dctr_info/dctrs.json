@@ -1,0 +1,34 @@
+{
+    "doctor_id": "D001",
+    "name":"Dr. Abhishek Sharma",
+    "profile":"MD, Psychologist", 
+    "area":"Mumbai"
+}
+
+{
+    "doctor_id": "D002",
+    "name":"Dr. Monali Kulkarni",
+    "profile":"MS, Psychiatrist", 
+    "area":"Mumbai"
+}
+
+{
+    "doctor_id": "D004",
+    "name":"Dr. Aakash Shinde",
+    "profile":"MD, Psychologist", 
+    "area":"Pune"
+}
+
+{
+    "doctor_id": "D005",
+    "name":"Dr. Yash Jha",
+    "profile":"MS, Psychologist", 
+    "area":"Pune"
+}
+
+{
+    "doctor_id": "D003",
+    "name":"Dr Mamta Khurana",
+    "profile":"MD, physiotherapist", 
+    "area":"Sangli"
+}

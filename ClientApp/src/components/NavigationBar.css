@@ -1,0 +1,20 @@
+
+body{
+   text-decoration: none;
+}
+
+.right{
+    display:flex;
+    position:absolute;
+    right: 5rem;
+    }
+
+.textcolor{
+    color:white;
+    text-decoration: none;
+}
+
+.bar{
+        background-color:#FF6C22;
+        font-weight:500;
+}
